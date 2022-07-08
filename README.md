@@ -1,6 +1,6 @@
 # Sales_Reporting
   
-Program spracovává data 200 000 prodejních bodech, abychom byli schopný odpovědět následující otázky:
+Program spracovává data přibližně 200 000 prodejních bodech, abychom byli schopný odpovědět následující otázky:
 
  - V jakém měsíci se toho prodalo nejvíc? A jaká byla hodnota?
  - Které město mělo nejlepší tržby?
